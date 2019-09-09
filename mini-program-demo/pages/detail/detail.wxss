@@ -1,0 +1,7 @@
+page{
+  background: #f3f3f3;
+}
+.detail{
+  display: block;
+  text-align: center;
+}

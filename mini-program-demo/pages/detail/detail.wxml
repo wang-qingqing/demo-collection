@@ -1,0 +1,4 @@
+<view>
+  <text class='detail'>详情</text>
+  <view>这是从 {{title}} 跳转过来的</view>
+</view>
