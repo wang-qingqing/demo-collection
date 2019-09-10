@@ -10,3 +10,6 @@
     react-family-bucket-demo: react react-router redux 
     
     mini-program-demo: mini program
+
+    my-app: create-react-app
+    
